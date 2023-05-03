@@ -1,0 +1,24 @@
+{
+  "images": {
+    "homeScreenItalianChef": "https://thumbs.dreamstime.com/b/italian-chef-cartoon-illustration-character-65541017.jpg"
+  },
+
+  "colors": {
+    "red": {
+      "solidRed": "#FC4C4C",
+      "mediumRed": "#fea6a6",
+      "lightRed": "#ffeeee"
+    },
+    "yellow": {
+      "solidYellow": "#f7fb40",
+      "mediumYellow": "#fbfda0",
+      "lightYellow": "#ffffec"
+    },
+
+    "black": {
+      "solidBlack": "#151522",
+      "mediumBlack": "#8a8a91",
+      "lightBlack": "#e8e8e9"
+    }
+  }
+}
